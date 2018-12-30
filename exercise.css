@@ -1,0 +1,11 @@
+.Header{
+	background-color: grey;
+	text-align: center;
+	width:100%;
+}
+.Body{
+	background-color: white;
+}
+.button{
+	background-color: orange;
+}
